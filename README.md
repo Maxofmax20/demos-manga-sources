@@ -6,7 +6,7 @@ Independent Arabic source repository for DEMOS Manga. This repository includes o
 
 Repository index: `https://raw.githubusercontent.com/Maxofmax20/demos-manga-sources/repo/index.pb`
 
-Add that URL in **Extensions → Extension repositories**. The repository is independent of the Android app release cycle; source updates are published separately.
+The index endpoint is initialized. The first signed extension packages will appear after the GitHub Actions billing restriction is cleared and the remaining signing secrets are configured. Add the URL in **Extensions → Extension repositories** after the first successful publication. The repository is independent of the Android app release cycle; source updates are published separately.
 
 ## Scope
 
