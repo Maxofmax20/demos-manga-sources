@@ -1,7 +1,7 @@
 {
   "name": "DEMOS Manga Sources",
   "badgeLabel": "DEMOS",
-  "signingKey": "e5965766d67c872895cea4020023884760b57c8d7b8f230b0ad5a14bfc435d8c",
+  "signingKey": "10e82cfef445d52af7b2dff6b8de60cf186302cad53baa8a20bdf2588ed3c36b",
   "contact": {
     "website": "https://github.com/Maxofmax20/demos-manga-sources",
     "discord": "https://discord.gg/3FbCpdKbdY"
@@ -12,9 +12,9 @@
         "name": "Anyone Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.anyonemanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.anyonemanga-v1.6.57.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.anyonemanga-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/anyonemanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.anyonemanga-v1.6.57.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.anyonemanga-v1.6.57.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106057",
@@ -33,9 +33,9 @@
         "name": "Area Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.areamanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.areamanga-v1.6.2.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.areamanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/areamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.areamanga-v1.6.2.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.areamanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -54,9 +54,9 @@
         "name": "AriaToon",
         "packageName": "eu.kanade.tachiyomi.extension.ar.ariatoon",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.ariatoon-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.ariatoon-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/ariatoon/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.ariatoon-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.ariatoon-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -75,9 +75,9 @@
         "name": "AsgardScans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.asgardscans",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.asgardscans-v1.6.2.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.asgardscans-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/asgardscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.asgardscans-v1.6.2.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.asgardscans-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -96,9 +96,9 @@
         "name": "Azora",
         "packageName": "eu.kanade.tachiyomi.extension.ar.azora",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.azora-v1.6.74.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.azora-v1.6.74.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/azora/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.azora-v1.6.74.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.azora-v1.6.74.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106074",
@@ -117,9 +117,9 @@
         "name": "Comic Verse",
         "packageName": "eu.kanade.tachiyomi.extension.ar.comicverse",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.comicverse-v1.6.17.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.comicverse-v1.6.17.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/comicverse/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.comicverse-v1.6.17.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.comicverse-v1.6.17.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106017",
@@ -138,9 +138,9 @@
         "name": "Despair Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.despairmanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.despairmanga-v1.6.2.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.despairmanga-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/despairmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.despairmanga-v1.6.2.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.despairmanga-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -159,9 +159,9 @@
         "name": "Detective Conan Ar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.detectiveconanar",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.detectiveconanar-v1.6.59.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.detectiveconanar-v1.6.59.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/detectiveconanar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.detectiveconanar-v1.6.59.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.detectiveconanar-v1.6.59.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106059",
@@ -180,9 +180,9 @@
         "name": "Dilar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.dilar",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.dilar-v1.6.20.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.dilar-v1.6.20.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.dilar-v1.6.20.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.dilar-v1.6.20.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106020",
@@ -201,9 +201,9 @@
         "name": "EShadow",
         "packageName": "eu.kanade.tachiyomi.extension.ar.eshadow",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.eshadow-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.eshadow-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/eshadow/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.eshadow-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.eshadow-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -222,9 +222,9 @@
         "name": "Hijala",
         "packageName": "eu.kanade.tachiyomi.extension.ar.hijala",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.hijala-v1.6.3.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.hijala-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/hijala/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.hijala-v1.6.3.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.hijala-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -243,9 +243,9 @@
         "name": "HizoManga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.hizomanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.hizomanga-v1.6.57.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.hizomanga-v1.6.57.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/hizomanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.hizomanga-v1.6.57.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.hizomanga-v1.6.57.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106057",
@@ -264,9 +264,9 @@
         "name": "Kawii Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.kawiimanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.kawiimanga-v1.6.3.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.kawiimanga-v1.6.3.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/kawiimanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.kawiimanga-v1.6.3.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.kawiimanga-v1.6.3.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106003",
@@ -285,9 +285,9 @@
         "name": "Lava Scans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.lavascans",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.lavascans-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.lavascans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/lavascans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.lavascans-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.lavascans-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -306,9 +306,9 @@
         "name": "Loner Translations",
         "packageName": "eu.kanade.tachiyomi.extension.ar.lonertranslations",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.lonertranslations-v1.6.14.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.lonertranslations-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/lonertranslations/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.lonertranslations-v1.6.14.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.lonertranslations-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -327,9 +327,9 @@
         "name": "3asq",
         "packageName": "eu.kanade.tachiyomi.extension.ar.manga3asq",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.manga3asq-v1.6.61.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.manga3asq-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/manga3asq/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.manga3asq-v1.6.61.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.manga3asq-v1.6.61.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
@@ -348,9 +348,9 @@
         "name": "Manga Ai Land",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangaailand",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangaailand-v1.6.14.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangaailand-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangaailand/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangaailand-v1.6.14.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangaailand-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -369,9 +369,9 @@
         "name": "MangaCloud",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangacloud",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangacloud-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangacloud-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangacloud/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangacloud-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangacloud-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -390,9 +390,9 @@
         "name": "MangaDar",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangadar",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangadar-v1.6.2.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangadar-v1.6.2.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangadar/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangadar-v1.6.2.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangadar-v1.6.2.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106002",
@@ -411,9 +411,9 @@
         "name": "Mangalek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangalek",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangalek-v1.6.70.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangalek-v1.6.70.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangalek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangalek-v1.6.70.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangalek-v1.6.70.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106070",
@@ -439,9 +439,9 @@
         "name": "Mangalink",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangalink",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangalink-v1.6.61.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangalink-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangalink/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangalink-v1.6.61.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangalink-v1.6.61.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
@@ -460,9 +460,9 @@
         "name": "MangaLionz",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangalionz",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangalionz-v1.6.61.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangalionz-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangalionz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangalionz-v1.6.61.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangalionz-v1.6.61.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
@@ -481,9 +481,9 @@
         "name": "MangaSpark",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangaspark",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangaspark-v1.6.64.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangaspark-v1.6.64.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangaspark/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangaspark-v1.6.64.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangaspark-v1.6.64.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106064",
@@ -502,13 +502,13 @@
         "name": "Manga Starz",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangastarz",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangastarz-v1.6.66.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangastarz-v1.6.67.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangastarz/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangastarz-v1.6.66.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangastarz-v1.6.67.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "106066",
-        "versionName": "1.6.66",
+        "versionCode": "106067",
+        "versionName": "1.6.67",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -523,9 +523,9 @@
         "name": "MangaSwat",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangaswat",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangaswat-v1.6.61.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangaswat-v1.6.61.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangaswat/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangaswat-v1.6.61.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangaswat-v1.6.61.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106061",
@@ -544,9 +544,9 @@
         "name": "Manga Tales",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatales",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatales-v1.6.4.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatales-v1.6.4.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangatales/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatales-v1.6.4.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatales-v1.6.4.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106004",
@@ -565,9 +565,9 @@
         "name": "MangaTek",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatek",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatek-v1.6.11.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatek-v1.6.11.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatek-v1.6.11.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatek-v1.6.11.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106011",
@@ -586,9 +586,9 @@
         "name": "MangaTik",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatik",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatik-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatik-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangatik/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatik-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatik-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -607,9 +607,9 @@
         "name": "MangaTime",
         "packageName": "eu.kanade.tachiyomi.extension.ar.mangatime",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatime-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatime-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/mangatime/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.mangatime-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.mangatime-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -628,9 +628,9 @@
         "name": "Manhatok",
         "packageName": "eu.kanade.tachiyomi.extension.ar.manhatok",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.manhatok-v1.6.15.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.manhatok-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/manhatok/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.manhatok-v1.6.15.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.manhatok-v1.6.15.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106015",
@@ -649,9 +649,9 @@
         "name": "Murim",
         "packageName": "eu.kanade.tachiyomi.extension.ar.murim",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.murim-v1.6.15.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.murim-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/murim/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.murim-v1.6.15.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.murim-v1.6.15.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106015",
@@ -670,9 +670,9 @@
         "name": "NeverScans",
         "packageName": "eu.kanade.tachiyomi.extension.ar.neverscans",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.neverscans-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.neverscans-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/neverscans/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.neverscans-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.neverscans-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -691,9 +691,9 @@
         "name": "Niji Translations",
         "packageName": "eu.kanade.tachiyomi.extension.ar.nijitranslations",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.nijitranslations-v1.6.56.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.nijitranslations-v1.6.56.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/nijitranslations/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.nijitranslations-v1.6.56.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.nijitranslations-v1.6.56.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106056",
@@ -712,9 +712,9 @@
         "name": "Oduto",
         "packageName": "eu.kanade.tachiyomi.extension.ar.oduto",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.oduto-v1.6.1.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.oduto-v1.6.1.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/oduto/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.oduto-v1.6.1.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.oduto-v1.6.1.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106001",
@@ -733,9 +733,9 @@
         "name": "Onma",
         "packageName": "eu.kanade.tachiyomi.extension.ar.onma",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.onma-v1.6.0.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.onma-v1.6.0.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/onma/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.onma-v1.6.0.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.onma-v1.6.0.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106000",
@@ -754,9 +754,9 @@
         "name": "Orca Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.orcamanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.orcamanga-v1.6.15.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.orcamanga-v1.6.15.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/orcamanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.orcamanga-v1.6.15.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.orcamanga-v1.6.15.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106015",
@@ -775,9 +775,9 @@
         "name": "Rocks Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.rocksmanga-v1.6.60.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.rocksmanga-v1.6.60.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/rocksmanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.rocksmanga-v1.6.60.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.rocksmanga-v1.6.60.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106060",
@@ -796,9 +796,9 @@
         "name": "StellarSaber",
         "packageName": "eu.kanade.tachiyomi.extension.ar.stellarsaber",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.stellarsaber-v1.6.34.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.stellarsaber-v1.6.34.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/stellarsaber/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.stellarsaber-v1.6.34.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.stellarsaber-v1.6.34.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106034",
@@ -817,9 +817,9 @@
         "name": "Team X",
         "packageName": "eu.kanade.tachiyomi.extension.ar.teamx",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.teamx-v1.6.33.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.teamx-v1.6.33.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/teamx/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.teamx-v1.6.33.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.teamx-v1.6.33.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106033",
@@ -838,9 +838,9 @@
         "name": "XSano Manga",
         "packageName": "eu.kanade.tachiyomi.extension.ar.xsanomanga",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.xsanomanga-v1.6.14.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.xsanomanga-v1.6.14.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/xsanomanga/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.xsanomanga-v1.6.14.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.xsanomanga-v1.6.14.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106014",
@@ -859,9 +859,9 @@
         "name": "Yokai",
         "packageName": "eu.kanade.tachiyomi.extension.ar.yokai",
         "resources": {
-          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.yokai-v1.6.16.apk",
+          "apkUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.yokai-v1.6.16.apk",
           "iconUrl": "https://cdn.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@main/src/ar/yokai/res/mipmap-xhdpi/ic_launcher.png",
-          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/7b5a5f9/tachiyomi-ar.yokai-v1.6.16.jar"
+          "jarUrl": "https://github.com/Maxofmax20/demos-manga-sources/releases/download/4d74573/tachiyomi-ar.yokai-v1.6.16.jar"
         },
         "extensionLib": "1.6",
         "versionCode": "106016",
