@@ -34,6 +34,7 @@ jobs:
     timeout-minutes: 10
     permissions:
       actions: read
+      contents: read
     outputs:
       matrix: ${{ steps.generate-matrices.outputs.matrix }}
       delete: ${{ steps.generate-matrices.outputs.delete }}
@@ -72,6 +73,8 @@ jobs:
 
   build:
     name: Populate Gradle cache
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
@@ -116,6 +119,8 @@ jobs:
   build-extensions:
     name: Build extensions (${{ matrix.chunk.number }})
     needs: prepare
+    permissions:
+      contents: read
     runs-on: ubuntu-latest
     timeout-minutes: 30
     if: ${{ toJson(fromJson(needs.prepare.outputs.matrix).chunk) != '[]' }}
@@ -225,8 +230,8 @@ jobs:
             git add .
             git commit -m "Update extensions repo"
             git push
-            curl https://purge.jsdelivr.net/gh/keiyoushi/extensions@repo/index.json
-            curl https://purge.jsdelivr.net/gh/keiyoushi/extensions@repo/index.pb
+            curl https://purge.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@repo/index.json
+            curl https://purge.jsdelivr.net/gh/Maxofmax20/demos-manga-sources@repo/index.pb
           else
             echo "No changes to commit"
           fi
